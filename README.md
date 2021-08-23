@@ -1,1 +1,1 @@
-# kickstaret-analysis
+# kickstarter-analysis
