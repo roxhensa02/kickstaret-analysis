@@ -4,7 +4,7 @@
 ### The purpose of this project is to visualize campaign outcomes based on the their launching dates and the funding goals
 
 ## The analysis was performed as I created pivot tables and then using pivot charts to visualize the trends. One challenge that I faced was having the months on the pivot table for the theatre outcomes based on the land date. Therefore, I created another columns where it shows the months of the launching dates. --- [Kickstarter_Challenge](path/to/fKickstarter.xlxs).
-### ![Theater_Outcomes_Based_on_Launching_Dates] (path/to/Theater_Outcomes_Based_on_Launcing_Dates.png)
+### ![Theater_Outcomes_Based_on_Launching_Dates] (path/to/kickstaret-analysis.png)
 ### ![Outcomes_vs_Goals] (path/to/Outcomes_vs_Goals.png)
 
 ### One challenge that I faced was having the months on the pivot table for the theatre outcomes based on the land date. Therefore, I created another columns where it shows the months of the launching dates. 
